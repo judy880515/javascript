@@ -1,0 +1,31 @@
+
+.container{
+	background-color:black;
+	width: 60%;
+	height:925px;
+	margin: auto;	
+}
+.floating{
+	float: left;
+	width: 50%;
+}	
+.floating2{
+	float: left;
+	width: 50%;
+}
+.floating3{
+	float: left;
+	width: 50%;
+}
+.floating4{
+	float: left;
+	width: 50%;
+}
+
+
+.p{
+	z-index: 999;
+	color: white;
+	font-family:微軟正黑體;
+	text-align: center;
+}
